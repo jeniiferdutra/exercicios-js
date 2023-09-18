@@ -1,0 +1,1 @@
+Criei este repositório com a finalidade de aprimorar minhas habilidades em JavaScript, com o objetivo de consolidar meu conhecimento na linguagem. Os exercícios abrangem desde conceitos fundamentais até desafios mais avançados, proporcionando um aprendizado gradual e constante.
