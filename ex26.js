@@ -1,0 +1,7 @@
+// Crie uma função que retorne o tipo de dado do argumento passado nela (typeof)
+
+function tipo(dado) {
+    return typeof dado
+}
+
+console.log(tipo('bem vindo'))
