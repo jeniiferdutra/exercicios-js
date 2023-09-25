@@ -6,7 +6,22 @@
  - Até 200Km percorridos: R$0,30 por Km
  - Acima de 200Km percorridos: R$0,25 por Km */
 
-let carroPopular = parseFloat(90)
-let carroDeLuxo = parseFloat(150)
-let diasDeAluguel = 10
+let tipoCarro = ['Carro popular', 'Carro de luxo']
+let diasAlugados = 15
+let kmPercorridos = 300
 
+carroEscolhido = tipoCarro[1]
+
+if(carroEscolhido == tipoCarro[0] && kmPercorridos <= 100) {
+    let precoTotal = (kmPercorridos * 0.20) + (diasAlugados * 90)
+    console.log(`O valor total dos ${diasAlugados} dias de aluguel de um ${tipoCarro[0]} ficou R$${precoTotal.toFixed(2)}`)
+} else if(carroEscolhido == tipoCarro[0] && kmPercorridos > 100) {
+    let precoTotal = (kmPercorridos * 0.10) + (diasAlugados * 90)
+    console.log(`O valor total dos ${diasAlugados} dias de aluguel de um ${tipoCarro[0]} ficou R$${precoTotal.toFixed(2)}`)
+} else if(carroEscolhido == tipoCarro[1] && kmPercorridos <= 200) {
+    let precoTotal = (kmPercorridos * 0.30) + (diasAlugados * 150)
+    console.log(`O valor total dos ${diasAlugados} dias de aluguel de um ${tipoCarro[1]} ficou R$${precoTotal.toFixed(2)}`)
+} else {
+    let precoTotal = (kmPercorridos * 0.25) + (diasAlugados * 150)
+    console.log(`O valor total dos ${diasAlugados} dias de aluguel de um ${tipoCarro[1]} ficou R$${precoTotal.toFixed(2)}`)
+}
