@@ -3,5 +3,5 @@
 var possuiCarro = true
 var possuiCasa = false
 
-var darCredito = (possuiCarro && possuiCasa) ? 'Dar crédito ao cliente' : 'Negar crédito'
+var darCredito = (possuiCarro && possuiCasa) ? 'Dar crédito ao cliente.' : 'Negar crédito.'
 console.log(darCredito)
