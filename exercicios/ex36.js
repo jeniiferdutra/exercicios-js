@@ -4,4 +4,4 @@ var scroll = 1000
 
 scroll += 500
 
-console.log(scroll)
+console.log(scroll )
