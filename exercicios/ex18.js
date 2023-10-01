@@ -1,6 +1,6 @@
 // Verifique se as seguintes variáveis são Truthy ou Falsy
 
-var nome = 'Jenifer'
+var nome = 'Jenifer Rocha'
 var idade = 23
 var possuiDoutorado = false
 var empregoFuturo
