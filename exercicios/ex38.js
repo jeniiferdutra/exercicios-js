@@ -4,5 +4,5 @@
     var cor = 'preto';
     const marca = 'fiat';
     let portas = 4;
-    console.log(cor, marca, portas) // Console estava fora
+    console.log(cor, marca, portas) // Console estava fora 
 }
