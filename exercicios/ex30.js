@@ -4,7 +4,8 @@ var dadosPessoais = {
     nome: 'Jenifer',
     sobrenome: 'Rocha Dutra',
     idade: 23,
-    cidade: 'SP'
+    cidade: 'SP',
+    curso: 'ADS'
 }
 
 dadosPessoais.nomeCompleto = function() {

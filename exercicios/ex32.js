@@ -13,4 +13,4 @@ var cachorro = {
     }
 }
 
-console.log(cachorro.latir('mulher'))
+console.log(cachorro.latir('Homem'))

@@ -6,5 +6,5 @@ var carro = {
     marca: 'Audi',
 }
 
-carro.preco = 3000
+carro.preco = 3500
 console.log(carro)
