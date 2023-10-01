@@ -1,5 +1,5 @@
 // Declare uma variável contendo um número dentro de uma string
 
-var idade = '23'
+var numero = '23'
 
-console.log(idade)
+console.log(numero)

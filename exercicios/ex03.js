@@ -1,5 +1,5 @@
 // Declarar uma variável com a sua comida favorita e não atribuir valor
 
-var comidaFavorita 
+var favoriteFood 
 
-console.log(comidaFavorita)
+console.log(favoriteFood)

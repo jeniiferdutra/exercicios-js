@@ -1,7 +1,7 @@
 // Declare duas variáveis, uma com seu nome e outra com seu sobrenome e some as mesmas
 
-var nome = 'Jenifer'
-var sobrenome = 'Rocha Dutra'
-var nomeCompleto = `${nome} ${sobrenome}`
+var name = 'Jenifer'
+var lastName = 'Rocha Dutra'
+var fullName = `${name} ${lastName}`
 
-console.log(nomeCompleto)
+console.log(fullName)

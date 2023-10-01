@@ -3,4 +3,4 @@
 var name = 'Jenifer Rocha Dutra'
 var age = 23
 
-console.log(typeof name)
+console.log(typeof age)

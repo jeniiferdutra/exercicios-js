@@ -1,5 +1,5 @@
 // Atribuir valor a sua comida favorita
 
-var comidaFavorita = "Sushi"
+var favoriteFood = "Sushi"
 
-console.log(comidaFavorita)
+console.log(favoriteFood)
