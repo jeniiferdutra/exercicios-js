@@ -2,6 +2,6 @@
 
 var total = 10 + 5 * 2 / 2 + 20;
 
-// Multiplicação e divisão são realizados primeiro, depois a adição e subtração (a soma é sempre realizada da esquerda para a direita).
+// Multiplicação e divisão são realizados primeiro, depois a adição e subtração.
 
 console.log(total)
