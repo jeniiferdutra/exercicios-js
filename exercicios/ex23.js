@@ -4,4 +4,4 @@ function conta(num) {
     return num * 4
 }
 
-console.log(conta(3))
+console.log(conta(4))

@@ -8,6 +8,4 @@ function parImpar(num) {
     }
 }
 
-var funcao = parImpar(8)
-
-console.log(funcao)
+console.log(parImpar(8))

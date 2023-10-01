@@ -4,4 +4,4 @@ function tipo(dado) {
     return typeof dado
 }
 
-console.log(tipo('bem vindo'))
+console.log(tipo('Olá, Mundo'))

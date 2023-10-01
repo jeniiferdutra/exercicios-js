@@ -4,4 +4,4 @@ function nomeCompleto(nome, sobrenome) {
     return `${nome} ${sobrenome}`
 }
 
-console.log(nomeCompleto('jenifer', 'rocha dutra'))
+console.log(nomeCompleto('Jenifer', 'Rocha Dutra'))

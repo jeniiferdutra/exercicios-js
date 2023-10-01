@@ -4,4 +4,4 @@ function isTruth(name) {
     return !!name
 }
 
-console.log(isTruth(' '))
+console.log(isTruth('  '))

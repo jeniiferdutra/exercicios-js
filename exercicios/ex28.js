@@ -10,4 +10,4 @@ function jaVisitei(paisesVisitados) {
 }
 
 console.log(precisoVisitar(20))
-console.log(jaVisitei(20))
+console.log(jaVisitei(30))
