@@ -4,7 +4,7 @@ var brasil = 207
 var china = 1340
 
 if(brasil > china) {
-    console.log('Brasil tem mais habitantes')
+    console.log('Brasil tem mais habitantes.')
 } else {
-    console.log('China tem mais habitantes')
+    console.log('China tem mais habitantes.')
 }
