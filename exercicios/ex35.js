@@ -1,4 +1,4 @@
-// Interaja com um loop nas frutas abaixo e pare ao chegar em Pera
+// Interaja com um loop nas frutas abaixo e pare ao chegar em Pera.
 
 var frutas = ['Banana', 'Maçã', 'Pera', 'Uva', 'Melância'] 
     for(var i = 0; i < frutas.length; i++) {
