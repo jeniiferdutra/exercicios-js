@@ -1,9 +1,7 @@
 // Modifique o href do link externo no menu
 
-const linkExterno = document.querySelector('[href^="http"]')// Seleciona o primeiro elemento cujo atributo 'href' começa com "http"
+const link = document.querySelector('a[href^="https"]')
 
-linkExterno.setAttribute('href', 'https://www.google.com')  // Define o atributo 'href' do elemento selecionado para "https://www.google.com"
+link.setAttribute('href', 'https://www.google.com.br/')
 
-
-console.log(linkExterno) // Exibe no console o elemento modificado
-
+console.log(link)
