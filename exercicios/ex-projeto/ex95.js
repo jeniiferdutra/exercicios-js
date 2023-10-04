@@ -10,4 +10,10 @@ section.offsetLeft = distancia esquerdo do elemento e esquero da pag
 
 getBoundingClientRect() pega todos os elementos (width, height, etc)
 
+Verifique a distância da primeira imagem em relação ao topo da página
+
 */
+
+const primeiraImagem = document.querySelector('img')
+
+console.log(primeiraImagem.offsetTop)
